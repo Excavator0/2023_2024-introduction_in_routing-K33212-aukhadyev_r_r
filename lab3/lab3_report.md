@@ -21,43 +21,43 @@
 
 Схема связи
 
-![](lab3/images/1.png)
+![](/lab3/images/1.png)
 
 Настроим роутеры. 1) NY
 
-![](lab3/images/2.png)
+![](/lab3/images/2.png)
 
 2) LND
 
-![](lab3/images/3.png)
+![](/lab3/images/3.png)
 
 3) LBN
 
-![](lab3/images/4.png)
+![](/lab3/images/4.png)
 
 4) HKI
 
-![](lab3/images/5.png)
+![](/lab3/images/5.png)
 
 5) MSK
 
-![](lab3/images/6.png)
+![](/lab3/images/6.png)
 
 6) SPB
 
-![](lab3/images/7.png)
+![](/lab3/images/7.png)
 
 Далее настроим компьютер
 
-![](lab3/images/8.png)
+![](/lab3/images/8.png)
 
 И SGI_Prism
 
-![](lab3/images/9.png)
+![](/lab3/images/9.png)
 
 Проверим получившуюся конфигурацию MPLS
 
-![](lab3/images/10.png)
+![](/lab3/images/10.png)
 
 ### Вывод
 
