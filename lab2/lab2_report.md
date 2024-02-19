@@ -21,37 +21,37 @@
 
 Создадим сеть и построим сразу граф
 
-![](lab2/images/1.png)
+![](/lab2/images/1.png)
 
 Выполним настройку роутера Франкфурт
 
-![](lab2/images/2.png)
+![](/lab2/images/2.png)
 
 Выполним настройку роутера Москва
 
-![](lab2/images/3.png)
+![](/lab2/images/3.png)
 
 Выполним настройку роутера Берлин
 
-![](lab2/images/4.png)
+![](/lab2/images/4.png)
 
 Далее настраиваем компьютер Франкфурт
 
-![](lab2/images/5.png)
+![](/lab2/images/5.png)
 
 Настраиваем компьютер Москва
 
-![](lab2/images/6.png)
+![](/lab2/images/6.png)
 
 Настраиваем компьютер Берлин
 
-![](lab2/images/7.png)
+![](/lab2/images/7.png)
 
 Проверяем доступность сети
 
-![](lab2/images/8.png)
-![](lab2/images/9.png)
-![](lab2/images/10.png)
+![](/lab2/images/8.png)
+![](/lab2/images/9.png)
+![](/lab2/images/10.png)
 
 ### Вывод
 
