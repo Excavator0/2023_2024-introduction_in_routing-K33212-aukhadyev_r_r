@@ -21,30 +21,30 @@
 
 Создаем топологию сети
 
-![](lab1/images/1.png)
+![](/lab1/images/1.png)
 
 Так выглядит полученный граф
 
-![](lab1/images/2.png)
+![](/lab1/images/2.png)
 
 Выполним настройку первого роутера
 
-![](lab1/images/3.png)
+![](/lab1/images/3.png)
 
 Выполним настройку свича верхнего уровня
 
-![](lab1/images/4.png)
+![](/lab1/images/4.png)
 
 И настроим два свича нижнего уровня 
 
-![](lab1/images/5.png)
-![](lab1/images/6.png)
+![](/lab1/images/5.png)
+![](/lab1/images/6.png)
 
 Далее проверим доступность
 
-![](lab1/images/7.png)
-![](lab1/images/8.png)
-![](lab1/images/9.png)
+![](/lab1/images/7.png)
+![](/lab1/images/8.png)
+![](/lab1/images/9.png)
 
 ### Вывод
 
