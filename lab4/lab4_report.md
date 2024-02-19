@@ -20,59 +20,59 @@
 
 Построим схему связи
 
-![](lab4/images/1.png)
-![](lab4/images/2.png)
+![](/lab4/images/1.png)
+![](/lab4/images/2.png)
 
 Далее производим настройку роутеров. 1) HKI
 
-![](lab4/images/3.png)
+![](/lab4/images/3.png)
 
 2) LBN
 
-![](lab4/images/4.png)
+![](/lab4/images/4.png)
 
 3) LND
 
-![](lab4/images/5.png)
+![](/lab4/images/5.png)
 
 4) NY
 
-![](lab4/images/6.png)
+![](/lab4/images/6.png)
 
 5) SVL
 
-![](lab4/images/7.png)
+![](/lab4/images/7.png)
 
 Далее настроим компьютер 1
 
-![](lab4/images/8.png)
+![](/lab4/images/8.png)
 
 Компьютер 2
 
-![](lab4/images/9.png)
+![](/lab4/images/9.png)
 
 Компьютер 3
 
-![](lab4/images/10.png)
+![](/lab4/images/10.png)
 
 Далее настраиваем VPLS
 SPB
 
-![](lab4/images/11.png)
+![](/lab4/images/11.png)
 
 NY
 
-![](lab4/images/12.png)
+![](/lab4/images/12.png)
 
 SVL
 
-![](lab4/images/13.png)
+![](/lab4/images/13.png)
 
 И проверим доступность
 
-![](lab4/images/14.png)
-![](lab4/images/15.png)
-![](lab4/images/16.png)
+![](/lab4/images/14.png)
+![](/lab4/images/15.png)
+![](/lab4/images/16.png)
 
 ### Вывод
 
